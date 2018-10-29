@@ -1,6 +1,6 @@
 package com.springboot.component;
 
-import org.springframework.lang.Nullable;
+import com.sun.istack.internal.Nullable;
 import org.springframework.util.StringUtils;
 import org.springframework.web.servlet.LocaleResolver;
 

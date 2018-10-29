@@ -17,6 +17,5 @@ spring:
   messages:
     basename: i18n.login
 server:
-  servlet:
-    context-path: /springboot
+  context-path: /springboot
   port: 8081
